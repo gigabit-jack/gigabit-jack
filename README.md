@@ -12,7 +12,7 @@ I'm always looking for new challenges and opportunities to build useful tools, a
 
 If you'd like to connect, collaborate, or learn more about any of these projects:
 
-- **GitHub:** [https://github.com/gigabit-jack/](https://github.com/gigabit-jack/)
+- **GitHub OSU Portfolio:** [https://github.com/gigabit-jack/osu-portfolio](https://github.com/gigabit-jack/osu-portfolio)
 - **LinkedIn:** [https://www.linkedin.com/in/joshgoben/](https://www.linkedin.com/in/joshgoben/)
 - **Email:** [jmg@goben.io](mailto:jmg@goben.io)
 
